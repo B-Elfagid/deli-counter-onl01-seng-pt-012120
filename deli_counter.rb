@@ -1,4 +1,4 @@
-var katzDeli = [];
+var katzDeli = []
 
 function takeANumber(currentLine, name){
 var placeInLine = currentLine.length + 1;
@@ -38,5 +38,5 @@ outputString = outputString + “, ” + (i+1) + “. ” + line[i];
 }
 return outputString;
 }
-end
+
 
